@@ -1,1 +1,1 @@
-<!-- This was my first GitHub repository. -->
+> This was my first GitHub repository.
